@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Chaudhary
 
-🎯 **Cybersecurity Enthusiast | Network Engineer | OSINT Researcher**
+🎯 **Cybersecurity Enthusiast | Penetration Tester | OSINT Researcher**
 
 Welcome to my GitHub! I'm passionate about securing digital infrastructure, exploring open-source intelligence, and building powerful tools for network analysis and penetration testing.
 
