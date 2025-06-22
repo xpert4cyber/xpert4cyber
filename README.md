@@ -67,4 +67,18 @@ Welcome to my GitHub! I'm passionate about securing digital infrastructure, expl
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Xpert4Cyber&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="center">Skills & Specializations</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hardware_&_Networking-000000?style=for-the-badge&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OS_Virtualization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cyber_Security-0F0F0F?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital_Forensics-6A1B9A?style=for-the-badge&logo=autopsy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Malware_Analysis-2E7D32?style=for-the-badge&logo=virustotal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat_Hunting_&_Monitoring-1E88E5?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
