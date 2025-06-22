@@ -29,12 +29,11 @@ Welcome to my GitHub! I'm passionate about securing digital infrastructure, expl
 
 ## 🧰 Skills & Tools
 
-- **Languages:** Python, Bash, Batch, PowerShell
-- **Cybersecurity Tools:** Nmap, TShark/Wireshark, NSE, Metasploit, Nikto, Burp Suite
-- **OSINT & Automation:** Google Dorking, Email/Phone/Employee Extraction, Custom Scrapers
-- **Networking:** TCP/IP, IPv6, FTP, SMB, DNS, VLANs, Routing Protocols
-- **Platforms:** Linux (Debian/Ubuntu/Kali), Windows Server, Cisco Packet Tracer, Wireshark
-- **Dev Tools:** Git, GitHub Actions, Flask, SQLite, VS Code
+- **Languages:** Bash, Batch, PowerShell, Python etc
+- **Cybersecurity Tools:** Nmap, TShark/Wireshark, NSE, Metasploit, Nikto, Burp Suite, Security Onion,  etc
+- **OSINT & Automation:** Google Dorking, Email/Phone/Employee Extraction, Custom Scrapers etc
+- **Networking:** TCP/IP, IPv6, FTP, SMB, DNS, VLANs, Routing Protocols etc
+- **Platforms:** Linux (Debian/Ubuntu/Kali), Windows Server, Cisco Packet Tracer, Wireshark etc
 
 ---
 
